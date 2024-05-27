@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ConsoleApp1\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.exe.config
+C:\Users\USER\source\repos\ConsoleApp1\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.exe
+C:\Users\USER\source\repos\ConsoleApp1\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.pdb
+C:\Users\USER\source\repos\ConsoleApp1\ConsoleReadLine01\obj\Debug\ConsoleReadLine01.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp1\ConsoleReadLine01\obj\Debug\ConsoleReadLine01.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp1\ConsoleReadLine01\obj\Debug\ConsoleReadLine01.exe
+C:\Users\USER\source\repos\ConsoleApp1\ConsoleReadLine01\obj\Debug\ConsoleReadLine01.pdb
