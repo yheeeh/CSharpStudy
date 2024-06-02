@@ -3,19 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7A646F6B-8935-40C2-8ED0-CAD38E2210B2}|Array6\\Array6.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\array6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A646F6B-8935-40C2-8ED0-CAD38E2210B2}|Array6\\Array6.csproj|solutionrelative:array6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DC578B-AE7D-47BC-96F8-8E1764495710}|Array5\\Array5.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\array5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DC578B-AE7D-47BC-96F8-8E1764495710}|Array5\\Array5.csproj|solutionrelative:array5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E02B755-8A73-4F26-B941-1B338454CCE7}|Array4\\Array4.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\array4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E02B755-8A73-4F26-B941-1B338454CCE7}|Array4\\Array4.csproj|solutionrelative:array4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B05128-7CD2-4AB9-B02B-9A22667C6ABA}|Array3\\Array3.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\array3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B05128-7CD2-4AB9-B02B-9A22667C6ABA}|Array3\\Array3.csproj|solutionrelative:array3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3A58EB-D936-484E-AF04-F65B2BC1B9F0}|Array2\\Array2.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\array2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3A58EB-D936-484E-AF04-F65B2BC1B9F0}|Array2\\Array2.csproj|solutionrelative:array2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19B70BC-8130-4F25-BCF9-380EAE7E2D65}|Array1\\Array1.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\array1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19B70BC-8130-4F25-BCF9-380EAE7E2D65}|Array1\\Array1.csproj|solutionrelative:array1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FEF2AD9-6142-4910-B979-450B87FF3A1D}|ConsoleApp24\\ConsoleApp24.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\consoleapp24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FEF2AD9-6142-4910-B979-450B87FF3A1D}|ConsoleApp24\\ConsoleApp24.csproj|solutionrelative:consoleapp24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{746BA3C5-A00B-451E-8B2F-F030B07A8F80}|ConsoleApp23\\ConsoleApp23.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{746BA3C5-A00B-451E-8B2F-F030B07A8F80}|ConsoleApp23\\ConsoleApp23.csproj|C:\\Users\\USER\\source\\repos\\ConsoleApp1\\consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{746BA3C5-A00B-451E-8B2F-F030B07A8F80}|ConsoleApp23\\ConsoleApp23.csproj|solutionrelative:consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BE7D3E0-3786-4334-9922-9804945F4951}|ConsoleApp22\\ConsoleApp22.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BE7D3E0-3786-4334-9922-9804945F4951}|ConsoleApp22\\ConsoleApp22.csproj|C:\\Users\\USER\\source\\repos\\ConsoleApp1\\consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BE7D3E0-3786-4334-9922-9804945F4951}|ConsoleApp22\\ConsoleApp22.csproj|solutionrelative:consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD047A2C-5162-43BD-8859-745539A659BC}|ConsoleApp21\\ConsoleApp21.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\consoleapp21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD047A2C-5162-43BD-8859-745539A659BC}|ConsoleApp21\\ConsoleApp21.csproj|C:\\Users\\USER\\source\\repos\\ConsoleApp1\\consoleapp21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD047A2C-5162-43BD-8859-745539A659BC}|ConsoleApp21\\ConsoleApp21.csproj|solutionrelative:consoleapp21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,6 +64,84 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array6\\Program.cs",
+              "RelativeDocumentMoniker": "Array6\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array6\\Program.cs",
+              "RelativeToolTip": "Array6\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:09:00.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array5\\Program.cs",
+              "RelativeDocumentMoniker": "Array5\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array5\\Program.cs",
+              "RelativeToolTip": "Array5\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:00:14.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array4\\Program.cs",
+              "RelativeDocumentMoniker": "Array4\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array4\\Program.cs",
+              "RelativeToolTip": "Array4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:43:20.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array3\\Program.cs",
+              "RelativeDocumentMoniker": "Array3\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array3\\Program.cs",
+              "RelativeToolTip": "Array3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:30:29.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array2\\Program.cs",
+              "RelativeDocumentMoniker": "Array2\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array2\\Program.cs",
+              "RelativeToolTip": "Array2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:52:40.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array1\\Program.cs",
+              "RelativeDocumentMoniker": "Array1\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array1\\Program.cs",
+              "RelativeToolTip": "Array1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:37:35.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp24\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp24\\Program.cs",
@@ -51,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp23\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp23\\Program.cs",
@@ -59,12 +161,11 @@
               "RelativeToolTip": "ConsoleApp23\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T16:22:19.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T16:22:19.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp22\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp22\\Program.cs",
@@ -72,12 +173,11 @@
               "RelativeToolTip": "ConsoleApp22\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAADwvygAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T11:27:59.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T11:27:59.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp21\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp21\\Program.cs",
@@ -85,12 +185,11 @@
               "RelativeToolTip": "ConsoleApp21\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:46:41.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T14:46:41.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp20\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Program.cs",
@@ -102,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp19\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp19\\Program.cs",

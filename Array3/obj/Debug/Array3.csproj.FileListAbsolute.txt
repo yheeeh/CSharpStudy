@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ConsoleApp1\Array3\bin\Debug\Array3.exe.config
+C:\Users\USER\source\repos\ConsoleApp1\Array3\bin\Debug\Array3.exe
+C:\Users\USER\source\repos\ConsoleApp1\Array3\bin\Debug\Array3.pdb
+C:\Users\USER\source\repos\ConsoleApp1\Array3\obj\Debug\Array3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp1\Array3\obj\Debug\Array3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp1\Array3\obj\Debug\Array3.exe
+C:\Users\USER\source\repos\ConsoleApp1\Array3\obj\Debug\Array3.pdb
