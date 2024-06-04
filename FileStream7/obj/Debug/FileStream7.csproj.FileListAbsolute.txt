@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ConsoleApp1\FileStream7\bin\Debug\FileStream7.exe.config
+C:\Users\USER\source\repos\ConsoleApp1\FileStream7\bin\Debug\FileStream7.exe
+C:\Users\USER\source\repos\ConsoleApp1\FileStream7\bin\Debug\FileStream7.pdb
+C:\Users\USER\source\repos\ConsoleApp1\FileStream7\obj\Debug\FileStream7.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp1\FileStream7\obj\Debug\FileStream7.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp1\FileStream7\obj\Debug\FileStream7.exe
+C:\Users\USER\source\repos\ConsoleApp1\FileStream7\obj\Debug\FileStream7.pdb
