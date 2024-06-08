@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ConsoleApp1\Destructor\bin\Debug\Destructor.exe.config
+C:\Users\USER\source\repos\ConsoleApp1\Destructor\bin\Debug\Destructor.exe
+C:\Users\USER\source\repos\ConsoleApp1\Destructor\bin\Debug\Destructor.pdb
+C:\Users\USER\source\repos\ConsoleApp1\Destructor\obj\Debug\Destructor.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp1\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp1\Destructor\obj\Debug\Destructor.exe
+C:\Users\USER\source\repos\ConsoleApp1\Destructor\obj\Debug\Destructor.pdb

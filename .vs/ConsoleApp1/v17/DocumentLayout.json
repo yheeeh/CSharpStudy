@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F351C909-D3E2-455A-B544-D269CB0634D3}|Static2\\Static2.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\static2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F351C909-D3E2-455A-B544-D269CB0634D3}|Static2\\Static2.csproj|solutionrelative:static2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BB802E-EFA7-4DA0-A6C5-E909C4740F81}|Static\\Static.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BB802E-EFA7-4DA0-A6C5-E909C4740F81}|Static\\Static.csproj|solutionrelative:static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6FA7DC-A7EB-469A-82F1-F32A5241F091}|Destructor\\Destructor.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\destructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6FA7DC-A7EB-469A-82F1-F32A5241F091}|Destructor\\Destructor.csproj|solutionrelative:destructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A7E1037-33DA-4BFB-9449-43D7AEA5654D}|_7_1\\_7_1.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\_7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A7E1037-33DA-4BFB-9449-43D7AEA5654D}|_7_1\\_7_1.csproj|solutionrelative:_7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D2E9F27-241E-47E9-AC93-F73BAA6EBA51}|FileStream8\\FileStream8.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\filestream8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D2E9F27-241E-47E9-AC93-F73BAA6EBA51}|FileStream8\\FileStream8.csproj|C:\\Users\\USER\\source\\repos\\ConsoleApp1\\filestream8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D2E9F27-241E-47E9-AC93-F73BAA6EBA51}|FileStream8\\FileStream8.csproj|solutionrelative:filestream8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -104,6 +116,45 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Static2\\Program.cs",
+              "RelativeDocumentMoniker": "Static2\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Static2\\Program.cs",
+              "RelativeToolTip": "Static2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:42:55.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Static\\Program.cs",
+              "RelativeDocumentMoniker": "Static\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Static\\Program.cs",
+              "RelativeToolTip": "Static\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:38:01.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Destructor\\Program.cs",
+              "RelativeDocumentMoniker": "Destructor\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Destructor\\Program.cs",
+              "RelativeToolTip": "Destructor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:32:57.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\_7_1\\Program.cs",
               "RelativeDocumentMoniker": "_7_1\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\_7_1\\Program.cs",
@@ -115,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream8\\Program.cs",
               "RelativeDocumentMoniker": "FileStream8\\Program.cs",
@@ -123,12 +174,11 @@
               "RelativeToolTip": "FileStream8\\Program.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAADwvy4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:41:34.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:41:34.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream7\\Program.cs",
               "RelativeDocumentMoniker": "FileStream7\\Program.cs",
@@ -140,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Serialization1\\Program.cs",
               "RelativeDocumentMoniker": "Serialization1\\Program.cs",
@@ -152,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream5\\Program.cs",
               "RelativeDocumentMoniker": "FileStream5\\Program.cs",
@@ -164,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream4\\Program.cs",
               "RelativeDocumentMoniker": "FileStream4\\Program.cs",
@@ -176,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream3\\Program.cs",
               "RelativeDocumentMoniker": "FileStream3\\Program.cs",
@@ -188,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Split\\Program.cs",
               "RelativeDocumentMoniker": "Split\\Program.cs",
@@ -200,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream2\\Program.cs",
               "RelativeDocumentMoniker": "FileStream2\\Program.cs",
@@ -212,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream1\\Program.cs",
               "RelativeDocumentMoniker": "FileStream1\\Program.cs",
@@ -224,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array6\\Program.cs",
               "RelativeDocumentMoniker": "Array6\\Program.cs",
@@ -236,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array5\\Program.cs",
               "RelativeDocumentMoniker": "Array5\\Program.cs",
@@ -248,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array4\\Program.cs",
               "RelativeDocumentMoniker": "Array4\\Program.cs",
@@ -260,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array3\\Program.cs",
               "RelativeDocumentMoniker": "Array3\\Program.cs",
@@ -272,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array2\\Program.cs",
               "RelativeDocumentMoniker": "Array2\\Program.cs",
@@ -284,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array1\\Program.cs",
               "RelativeDocumentMoniker": "Array1\\Program.cs",
@@ -296,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp24\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Program.cs",
@@ -308,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp23\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp23\\Program.cs",
@@ -320,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp22\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp22\\Program.cs",
@@ -332,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp21\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp21\\Program.cs",
@@ -344,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp20\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Program.cs",
@@ -356,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp19\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp19\\Program.cs",

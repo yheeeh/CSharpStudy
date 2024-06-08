@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ConsoleApp1\Static\bin\Debug\Static.exe.config
+C:\Users\USER\source\repos\ConsoleApp1\Static\bin\Debug\Static.exe
+C:\Users\USER\source\repos\ConsoleApp1\Static\bin\Debug\Static.pdb
+C:\Users\USER\source\repos\ConsoleApp1\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp1\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp1\Static\obj\Debug\Static.exe
+C:\Users\USER\source\repos\ConsoleApp1\Static\obj\Debug\Static.pdb
