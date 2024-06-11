@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ConsoleApp1\Event\bin\Debug\Event.exe.config
+C:\Users\USER\source\repos\ConsoleApp1\Event\bin\Debug\Event.exe
+C:\Users\USER\source\repos\ConsoleApp1\Event\bin\Debug\Event.pdb
+C:\Users\USER\source\repos\ConsoleApp1\Event\obj\Debug\Event.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp1\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp1\Event\obj\Debug\Event.exe
+C:\Users\USER\source\repos\ConsoleApp1\Event\obj\Debug\Event.pdb

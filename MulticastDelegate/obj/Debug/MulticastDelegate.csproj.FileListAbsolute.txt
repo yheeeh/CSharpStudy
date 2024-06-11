@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ConsoleApp1\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\Users\USER\source\repos\ConsoleApp1\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+C:\Users\USER\source\repos\ConsoleApp1\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+C:\Users\USER\source\repos\ConsoleApp1\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp1\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp1\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\Users\USER\source\repos\ConsoleApp1\MulticastDelegate\obj\Debug\MulticastDelegate.pdb
