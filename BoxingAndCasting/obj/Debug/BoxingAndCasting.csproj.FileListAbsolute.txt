@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ConsoleApp1\BoxingAndCasting\bin\Debug\BoxingAndCasting.exe.config
+C:\Users\USER\source\repos\ConsoleApp1\BoxingAndCasting\bin\Debug\BoxingAndCasting.exe
+C:\Users\USER\source\repos\ConsoleApp1\BoxingAndCasting\bin\Debug\BoxingAndCasting.pdb
+C:\Users\USER\source\repos\ConsoleApp1\BoxingAndCasting\obj\Debug\BoxingAndCasting.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp1\BoxingAndCasting\obj\Debug\BoxingAndCasting.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp1\BoxingAndCasting\obj\Debug\BoxingAndCasting.exe
+C:\Users\USER\source\repos\ConsoleApp1\BoxingAndCasting\obj\Debug\BoxingAndCasting.pdb

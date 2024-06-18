@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ConsoleApp1\Override1\bin\Debug\Override1.exe.config
+C:\Users\USER\source\repos\ConsoleApp1\Override1\bin\Debug\Override1.exe
+C:\Users\USER\source\repos\ConsoleApp1\Override1\bin\Debug\Override1.pdb
+C:\Users\USER\source\repos\ConsoleApp1\Override1\obj\Debug\Override1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp1\Override1\obj\Debug\Override1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp1\Override1\obj\Debug\Override1.exe
+C:\Users\USER\source\repos\ConsoleApp1\Override1\obj\Debug\Override1.pdb
