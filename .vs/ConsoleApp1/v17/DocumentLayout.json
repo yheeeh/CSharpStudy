@@ -3,27 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{437AE113-3B18-41C5-B0F0-1FF76434739A}|Interface\\Interface.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437AE113-3B18-41C5-B0F0-1FF76434739A}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{393152D2-54B8-45ED-BE69-41C102916271}|BoxingAndCasting\\BoxingAndCasting.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\boxingandcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{393152D2-54B8-45ED-BE69-41C102916271}|BoxingAndCasting\\BoxingAndCasting.csproj|solutionrelative:boxingandcasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C120DD08-D760-48E4-B13B-F9438566D6AD}|Override1\\Override1.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\override1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C120DD08-D760-48E4-B13B-F9438566D6AD}|Override1\\Override1.csproj|C:\\Users\\USER\\source\\repos\\ConsoleApp1\\override1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C120DD08-D760-48E4-B13B-F9438566D6AD}|Override1\\Override1.csproj|solutionrelative:override1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1700B53-9C20-4705-94E4-FFDB88B218E0}|Inheritance3\\Inheritance3.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\inheritance3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1700B53-9C20-4705-94E4-FFDB88B218E0}|Inheritance3\\Inheritance3.csproj|C:\\Users\\USER\\source\\repos\\ConsoleApp1\\inheritance3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1700B53-9C20-4705-94E4-FFDB88B218E0}|Inheritance3\\Inheritance3.csproj|solutionrelative:inheritance3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{161CB801-FFE7-4300-96D5-779CB2D3AC85}|Inheritance2\\Inheritance2.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\inheritance2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{161CB801-FFE7-4300-96D5-779CB2D3AC85}|Inheritance2\\Inheritance2.csproj|C:\\Users\\USER\\source\\repos\\ConsoleApp1\\inheritance2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{161CB801-FFE7-4300-96D5-779CB2D3AC85}|Inheritance2\\Inheritance2.csproj|solutionrelative:inheritance2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C1D2904-7544-4130-98C2-1A4B8002860F}|Inheritance1\\Inheritance1.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\inheritance1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C1D2904-7544-4130-98C2-1A4B8002860F}|Inheritance1\\Inheritance1.csproj|C:\\Users\\USER\\source\\repos\\ConsoleApp1\\inheritance1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C1D2904-7544-4130-98C2-1A4B8002860F}|Inheritance1\\Inheritance1.csproj|solutionrelative:inheritance1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA028B7E-AEB5-4A43-9107-9FCB9D58813A}|Event\\Event.csproj|c:\\users\\user\\source\\repos\\consoleapp1\\event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA028B7E-AEB5-4A43-9107-9FCB9D58813A}|Event\\Event.csproj|C:\\Users\\USER\\source\\repos\\ConsoleApp1\\event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA028B7E-AEB5-4A43-9107-9FCB9D58813A}|Event\\Event.csproj|solutionrelative:event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -156,6 +160,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:58:09.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\BoxingAndCasting\\Program.cs",
               "RelativeDocumentMoniker": "BoxingAndCasting\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\BoxingAndCasting\\Program.cs",
@@ -167,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Override1\\Program.cs",
               "RelativeDocumentMoniker": "Override1\\Program.cs",
@@ -175,12 +192,11 @@
               "RelativeToolTip": "Override1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T13:42:08.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T13:42:08.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Inheritance3\\Program.cs",
               "RelativeDocumentMoniker": "Inheritance3\\Program.cs",
@@ -188,12 +204,11 @@
               "RelativeToolTip": "Inheritance3\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T08:30:36.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T08:30:36.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Inheritance2\\Program.cs",
               "RelativeDocumentMoniker": "Inheritance2\\Program.cs",
@@ -201,12 +216,11 @@
               "RelativeToolTip": "Inheritance2\\Program.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAwwCcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T08:22:24.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T08:22:24.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Inheritance1\\Program.cs",
               "RelativeDocumentMoniker": "Inheritance1\\Program.cs",
@@ -214,12 +228,11 @@
               "RelativeToolTip": "Inheritance1\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAxwCkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T08:13:46.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T08:13:46.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Event\\Program.cs",
               "RelativeDocumentMoniker": "Event\\Program.cs",
@@ -227,12 +240,11 @@
               "RelativeToolTip": "Event\\Program.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAQwCYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:37:41.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T14:37:41.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\MulticastDelegate\\Program.cs",
               "RelativeDocumentMoniker": "MulticastDelegate\\Program.cs",
@@ -240,12 +252,11 @@
               "RelativeToolTip": "MulticastDelegate\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:28:53.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T14:28:53.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Delegate\\Program.cs",
               "RelativeDocumentMoniker": "Delegate\\Program.cs",
@@ -253,12 +264,11 @@
               "RelativeToolTip": "Delegate\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:21:18.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T14:21:18.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Indexer\\Program.cs",
               "RelativeDocumentMoniker": "Indexer\\Program.cs",
@@ -266,12 +276,11 @@
               "RelativeToolTip": "Indexer\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T09:38:48.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T09:38:48.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Property\\Program.cs",
               "RelativeDocumentMoniker": "Property\\Program.cs",
@@ -279,12 +288,11 @@
               "RelativeToolTip": "Property\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T09:19:55.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T09:19:55.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Static2\\Program.cs",
               "RelativeDocumentMoniker": "Static2\\Program.cs",
@@ -292,12 +300,11 @@
               "RelativeToolTip": "Static2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T14:42:55.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T14:42:55.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Static\\Program.cs",
               "RelativeDocumentMoniker": "Static\\Program.cs",
@@ -305,12 +312,11 @@
               "RelativeToolTip": "Static\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T14:38:01.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T14:38:01.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Destructor\\Program.cs",
               "RelativeDocumentMoniker": "Destructor\\Program.cs",
@@ -318,12 +324,11 @@
               "RelativeToolTip": "Destructor\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T14:32:57.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T14:32:57.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\_7_1\\Program.cs",
               "RelativeDocumentMoniker": "_7_1\\Program.cs",
@@ -331,12 +336,11 @@
               "RelativeToolTip": "_7_1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:35:23.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T07:35:23.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream8\\Program.cs",
               "RelativeDocumentMoniker": "FileStream8\\Program.cs",
@@ -344,12 +348,11 @@
               "RelativeToolTip": "FileStream8\\Program.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAADwvy4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:41:34.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:41:34.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream7\\Program.cs",
               "RelativeDocumentMoniker": "FileStream7\\Program.cs",
@@ -357,12 +360,11 @@
               "RelativeToolTip": "FileStream7\\Program.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAADwvyoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:37:10.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:37:10.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Serialization1\\Program.cs",
               "RelativeDocumentMoniker": "Serialization1\\Program.cs",
@@ -374,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream5\\Program.cs",
               "RelativeDocumentMoniker": "FileStream5\\Program.cs",
@@ -382,12 +384,11 @@
               "RelativeToolTip": "FileStream5\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T07:38:10.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T07:38:10.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream4\\Program.cs",
               "RelativeDocumentMoniker": "FileStream4\\Program.cs",
@@ -395,12 +396,11 @@
               "RelativeToolTip": "FileStream4\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T06:20:36.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T06:20:36.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream3\\Program.cs",
               "RelativeDocumentMoniker": "FileStream3\\Program.cs",
@@ -408,12 +408,11 @@
               "RelativeToolTip": "FileStream3\\Program.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAgwCwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T06:06:04.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T06:06:04.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Split\\Program.cs",
               "RelativeDocumentMoniker": "Split\\Program.cs",
@@ -421,12 +420,11 @@
               "RelativeToolTip": "Split\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T05:56:32.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T05:56:32.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream2\\Program.cs",
               "RelativeDocumentMoniker": "FileStream2\\Program.cs",
@@ -434,12 +432,11 @@
               "RelativeToolTip": "FileStream2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:31:43.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T14:31:43.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\FileStream1\\Program.cs",
               "RelativeDocumentMoniker": "FileStream1\\Program.cs",
@@ -447,12 +444,11 @@
               "RelativeToolTip": "FileStream1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:17:41.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T14:17:41.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array6\\Program.cs",
               "RelativeDocumentMoniker": "Array6\\Program.cs",
@@ -460,12 +456,11 @@
               "RelativeToolTip": "Array6\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAYwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T08:09:00.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T08:09:00.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array5\\Program.cs",
               "RelativeDocumentMoniker": "Array5\\Program.cs",
@@ -473,12 +468,11 @@
               "RelativeToolTip": "Array5\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAUwBYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T08:00:14.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T08:00:14.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array4\\Program.cs",
               "RelativeDocumentMoniker": "Array4\\Program.cs",
@@ -486,12 +480,11 @@
               "RelativeToolTip": "Array4\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T07:43:20.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T07:43:20.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array3\\Program.cs",
               "RelativeDocumentMoniker": "Array3\\Program.cs",
@@ -499,12 +492,11 @@
               "RelativeToolTip": "Array3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T07:30:29.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T07:30:29.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array2\\Program.cs",
               "RelativeDocumentMoniker": "Array2\\Program.cs",
@@ -512,12 +504,11 @@
               "RelativeToolTip": "Array2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T06:52:40.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T06:52:40.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\Array1\\Program.cs",
               "RelativeDocumentMoniker": "Array1\\Program.cs",
@@ -525,12 +516,11 @@
               "RelativeToolTip": "Array1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T06:37:35.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T06:37:35.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp24\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp24\\Program.cs",
@@ -538,12 +528,11 @@
               "RelativeToolTip": "ConsoleApp24\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T16:37:04.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T16:37:04.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp23\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp23\\Program.cs",
@@ -551,12 +540,11 @@
               "RelativeToolTip": "ConsoleApp23\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T16:22:19.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T16:22:19.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp22\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp22\\Program.cs",
@@ -564,12 +552,11 @@
               "RelativeToolTip": "ConsoleApp22\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAADwvygAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T11:27:59.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T11:27:59.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp21\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp21\\Program.cs",
@@ -577,12 +564,11 @@
               "RelativeToolTip": "ConsoleApp21\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:46:41.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T14:46:41.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp20\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Program.cs",
@@ -590,12 +576,11 @@
               "RelativeToolTip": "ConsoleApp20\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:32:24.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T14:32:24.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ConsoleApp1\\ConsoleApp19\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp19\\Program.cs",
@@ -603,8 +588,7 @@
               "RelativeToolTip": "ConsoleApp19\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:24:09.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T14:24:09.352Z"
             }
           ]
         }

@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Override", "Override1\Overr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingAndCasting", "BoxingAndCasting\BoxingAndCasting.csproj", "{393152D2-54B8-45ED-BE69-41C102916271}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{437AE113-3B18-41C5-B0F0-1FF76434739A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -345,6 +347,10 @@ Global
 		{393152D2-54B8-45ED-BE69-41C102916271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{393152D2-54B8-45ED-BE69-41C102916271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{393152D2-54B8-45ED-BE69-41C102916271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437AE113-3B18-41C5-B0F0-1FF76434739A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437AE113-3B18-41C5-B0F0-1FF76434739A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437AE113-3B18-41C5-B0F0-1FF76434739A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437AE113-3B18-41C5-B0F0-1FF76434739A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
